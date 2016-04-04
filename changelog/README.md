@@ -3,6 +3,7 @@
 ### 3.0.1 (in progress)
 
 - [bug] JAVA-1132: Executing bound statement with no variables results in exception with protocol v1.
+- [bug] JAVA-1140: Use same connection to check for schema agreement after a DDL query.
 
 Merged from 2.1 branch:
 
