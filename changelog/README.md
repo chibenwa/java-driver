@@ -4,6 +4,7 @@
 
 - [bug] JAVA-1132: Executing bound statement with no variables results in exception with protocol v1.
 - [improvement] JAVA-1040: SimpleStatement parameters support in QueryLogger.
+- [improvement] JAVA-1154: Allow individual Statement to cancel the read timeout.
 
 Merged from 2.1 branch:
 
